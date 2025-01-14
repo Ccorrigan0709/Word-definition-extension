@@ -1,7 +1,7 @@
 console.log("test");
 
 window.addEventListener('mouseup', wordSelected);
-window.word = "balls";
+window.word = "hello";
 
 function wordSelected() {
     console.log("word selected");
